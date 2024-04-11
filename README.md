@@ -1,4 +1,4 @@
-![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]
 
 <h1 align="center">Hi 👋, I'm R Yogeshwari</h1>
 <h3 align="center">A Passionate Machine Learning Engineer from India</h3>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://ryogeshwari23.wixsite.com/mysite](https://ryogeshwari23.wixsite.com/mysite)
+- 👨‍💻 All of my projects are available at [https://github.com/Yogeshwari0509?tab=repositories](https://github.com/Yogeshwari0509?tab=repositories)
 
 - 💬 Ask me about **machine learning**
 
