@@ -17,7 +17,9 @@
 - 💬 Ask me about **machine learning**
 
 - 📫 How to reach me **cr.yogeshwari@gmail.com**
-
+  
+- 🌐 View my portfolio - **https://ryogeshwari23.wixsite.com/mysite**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yogeshwari-raghunathan2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshwari-raghunathan2305" height="30" width="40" /></a>
