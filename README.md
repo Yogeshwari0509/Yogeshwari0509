@@ -1,4 +1,4 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm R Yogeshwari</h1>
 <h3 align="center">A Passionate Machine Learning Engineer from India</h3>
