@@ -1,6 +1,6 @@
 ![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-<h1 align="center">Hi 👋, I'm R Yogeshwari</h1>
+<h1 align="center">Hello 👋, I'm R Yogeshwari</h1>
 <h3 align="center">A Passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
 
